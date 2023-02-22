@@ -51,7 +51,6 @@ $(function () {
                 alert(result.responseJSON.message)
             }
         });
-
     });
 })
 
